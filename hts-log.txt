@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 21 Jun 2021 16:17:10 at https://portfoliovieira.webflow.io +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://portfoliovieira.webflow.io -O1 "C:\Meus Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:17:11	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://portfoliovieira.webflow.io/robots.txt (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 31 links scanned, 30 files written (3849054 bytes overall) [3312899 bytes received at 118317 bytes/sec], 723816 bytes transferred using HTTP compression in 6 files, ratio 23%, 4.4 requests per connection
+(1 errors, 0 warnings, 0 messages)
